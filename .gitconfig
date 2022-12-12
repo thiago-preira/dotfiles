@@ -1,0 +1,5 @@
+[core]
+        excludesfile = ~/.gitignore_global
+[user]
+        name = Thiago Pereira
+        email = 2319062+thiago-preira@users.noreply.github.com
